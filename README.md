@@ -1,11 +1,9 @@
 ## Hi there! I am [Dinesh](https://www.thewebengineer.dev).
 
 
-🔭 I’m currently working on React  
-🌱 I’m currently learning Node.js  
-👯 I’m looking to collaborate on Backend Technologies  
-🤔 I’m looking for help with DataBases  
-💬 Ask me about Front-end 
+🔭 I’m currently working on Frontend Technologies  
+👯 I’m looking to collaborate on AR/VR 
+💬 Ask me about Software Architecture, JavaScript, and a little bit about life and cooking
 
 ---
 
